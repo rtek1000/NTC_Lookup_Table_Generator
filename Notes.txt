@@ -1,2 +1,0 @@
-SharpDevelop Version  4.4.2.9749-39bf891c
-.NET Version          4.0.30319.34209
