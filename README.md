@@ -1,5 +1,9 @@
 # NTC_Lookup_Table_Generator
 Custom Firmware NTC Lookup Table Generator for XH W1209 Thermostat
 
-SharpDevelop Version  4.4.2.9749-39bf891c
-.NET Version          4.0.30319.34209
+![image](https://github.com/rtek1000/NTC_Lookup_Table_Generator/blob/main/Img/Image1.png)
+
+![image](https://github.com/rtek1000/NTC_Lookup_Table_Generator/blob/main/Img/Image2.png)
+
+- SharpDevelop Version  4.4.2.9749-39bf891c
+- .NET Version          4.0.30319.34209 (Windows)
