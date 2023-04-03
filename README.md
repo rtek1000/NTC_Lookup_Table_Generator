@@ -1,5 +1,5 @@
 # NTC Lookup Table Generator
-[Custom Firmware](https://github.com/rtek1000/W1209-firmware-modified) NTC Lookup Table Generator for XH W1209 (W1219/W3230) Thermostat
+NTC Lookup Table Generator (W1209/W1219/W3230 Thermostat) for [Custom Firmware](https://github.com/rtek1000/W1209-firmware-modified)
 
 ![image](https://github.com/rtek1000/NTC_Lookup_Table_Generator/blob/main/Img/Image_1.png)
 
