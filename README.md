@@ -8,7 +8,7 @@ NTC Lookup Table Generator (W1209/W1219/W3230 Thermostat) for [Custom Firmware](
 
 ![image](https://github.com/rtek1000/NTC_Lookup_Table_Generator/blob/main/Img/Image3.png)
 
-- SharpDevelop Version  4.4.2.9749-39bf891c
+- [SharpDevelop Version 4.4.2.9749-39bf891c](https://sourceforge.net/projects/sharpdevelop/files/SharpDevelop%204.x/4.4/SharpDevelop_4.4.2.9749_Source.zip/download)
 - .NET Version          4.0.30319.34209 (Windows)
 - GPL v3
 
