@@ -1,5 +1,6 @@
 # NTC Lookup Table Generator
 NTC Lookup Table Generator (W1209/W1219/W3230 Thermostat) for [Custom Firmware](https://github.com/rtek1000/W1209-firmware-modified)
+- It can be used in any microcontroller circuit that uses NTC and analog input.
 
 ![image](https://github.com/rtek1000/NTC_Lookup_Table_Generator/blob/main/Img/Image_1.png)
 
